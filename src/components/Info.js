@@ -6,7 +6,7 @@ export default function Info() {
             <img id="selfie" src='./IMG_0406.jpg' alt="selfie" />
             <h1>Adam Bowman</h1>
             <h4>Developer</h4>
-            <p>adambowman.tech</p>
+            <p><a href="https://adambowman.tech" target="_blank">adambowman.tech</a></p>
             <Buttons />
         </section>
 

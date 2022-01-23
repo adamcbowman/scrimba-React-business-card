@@ -138,4 +138,10 @@ i {
   color: #918E9B;
 }
 
+a {
+  text-decoration: none;
+}
 
+a:visited{
+  color: #918E9B;
+}
