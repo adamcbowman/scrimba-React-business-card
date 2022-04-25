@@ -1,7 +1,7 @@
 # Hi!
 
 This was made from a Scrimba dev challenge using create-react-app.
-Deployed to GH Pages at https://adamcbowman.github.io/scrimba-React-business-card/
+Deployed to Heroku at https://acb-business-card.herokuapp.com/
 
 # Getting Started with Create React App
 
