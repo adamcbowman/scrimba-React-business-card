@@ -1,3 +1,8 @@
+# Hi!
+
+This was made from a Scrimba dev challenge using create-react-app.
+Deployed to GH Pages at https://adamcbowman.github.io/scrimba-React-business-card/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
