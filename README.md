@@ -1,7 +1,7 @@
 # Hi!
 
 This was made from a Scrimba dev challenge using create-react-app.
-Deployed to Heroku at https://acb-business-card.herokuapp.com/
+Deployed to Vercel at https://scrimba-react-business-card-aj9yfjiiy-adamcbowman.vercel.app/
 
 # Getting Started with Create React App
 
