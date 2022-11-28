@@ -1,6 +1,6 @@
 {
   "name": "business-card",
-  "homepage": "https://adamcbowman.github.io/scrimba-React-business-card/",
+  "homepage": "https://scrimba-react-business-card.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
